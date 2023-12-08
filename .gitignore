@@ -139,7 +139,7 @@ ui-tests/.pnp.*
 venv/*
 *venv
 
-# *.csv
+*.csv
 
 
 

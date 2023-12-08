@@ -1,0 +1,6 @@
+environment: 'dev'
+google_credentials_file: '/Users/christophertrauco/.config/secrets/cx_admin_sa.json' 
+google_spreadsheet_key: '1ETXNPRMjKcsbIdKAziQNuG1Llo_T5U3ayzO1ugiW9_o'
+raw_datafile: 
+log_file:  '/Users/dev/log'
+
